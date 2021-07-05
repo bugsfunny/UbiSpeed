@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UbiSpeed</string>
+    <string name="your_current_speed">Your Current Speed</string>
+    <string name="speed_average">Speed Average</string>
+</resources>
